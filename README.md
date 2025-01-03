@@ -10,15 +10,41 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um Analista de Dados Sênior apaixonado por transformar dados em insights valiosos para os negócios. Atualmente, faço parte do time da Vivo Vita, onde lidero projetos de análise e engenharia de dados que impactam diretamente a tomada de decisão estratégica da empresa.
+Sou um Analista de Dados apaixonado por transformar dados em insights valiosos para os negócios. Com mais de 3 anos de experiência em análise de dados, atualmente faço parte do time da Vivo Vita, onde trabalho com projetos de análise e engenharia de dados que impactam diretamente a tomada de decisão estratégica da empresa.
 
-Com formação em Análise e Desenvolvimento de Sistemas pela Universidade UNA (2021), e pós graduando em Engenharia de Dados pela Anhanguera, combino habilidades técnicas sólidas com uma forte compreensão de negócios. Minha expertise inclui:
+Com formação em Análise e Desenvolvimento de Sistemas pela Universidade UNA (2021), pós graduando em Engenharia de Dados pela Anhanguera e certificação Power BI Express pela Xperian, combino habilidades técnicas sólidas com uma forte compreensão de negócios.
 
-- 📊 Desenvolvimento de ETLs e pipelines de dados robustos
-- 📈 Criação de dashboards interativos e relatórios analíticos
-- 🎯 Análise preditiva e descritiva de dados
-- 📚 Storytelling com dados para suporte à decisão
-- 🔄 Automação de processos e otimização de fluxos de trabalho
+## 🎯 Experiência Profissional
+
+### Análise de Dados (2021 - Presente)
+Atuação como analista de dados para diversos setores, desenvolvendo soluções analíticas e dashboards estratégicos para empresas de diferentes segmentos.
+
+### Liderança em T.I - Sonda IT
+Experiência como líder de equipe de Service Desk, gerenciando equipes e processos de suporte técnico.
+
+## 🏢 Principais Clientes
+
+<div align="center">
+  
+[![Banco Inter](https://img.shields.io/badge/-Banco%20Inter-FF7A00?style=for-the-badge&logo=inter&logoColor=white)](https://www.bancointer.com.br/)
+[![Purina](https://img.shields.io/badge/-Purina-FF0000?style=for-the-badge&logo=purina&logoColor=white)](https://www.purina.com.br/)
+[![Direcional](https://img.shields.io/badge/-Direcional-003087?style=for-the-badge)](https://www.direcional.com.br/)
+[![Cimentos Liz](https://img.shields.io/badge/-Cimentos%20Liz-00A0DC?style=for-the-badge)](https://www.cimentosliz.com.br/)
+[![BUH](https://img.shields.io/badge/-BUH-000000?style=for-the-badge)](https://www.usebuh.com.br/)
+[![MCD](https://img.shields.io/badge/-MCD-4B0082?style=for-the-badge)](https://www.mcdbrasil.net/)
+[![Trisul](https://img.shields.io/badge/-Trisul-2E8B57?style=for-the-badge)](https://www.trisul-sa.com.br/)
+[![Carbel](https://img.shields.io/badge/-Carbel-1E90FF?style=for-the-badge)](https://www.carbel.com.br/)
+[![TMF](https://img.shields.io/badge/-TMF%20Fertilizantes-32CD32?style=for-the-badge)](https://tmffertilizantes.com.br/)
+[![BRZ](https://img.shields.io/badge/-BRZ%20Engenharia-0000CD?style=for-the-badge)](https://www.brzempreendimentos.com/)
+[![Emccamp](https://img.shields.io/badge/-Emccamp-FF4500?style=for-the-badge)](https://www.emccamp.com.br/)
+[![Tenco](https://img.shields.io/badge/-Tenco-4682B4?style=for-the-badge)](https://grupotenco.com.br/)
+
+</div>
+
+## 🎓 Certificações
+- Power BI Express - Xperian
+- Análise e Desenvolvimento de Sistemas - UNA (2021)
+- Pós-graduação em Engenharia de Dados - Anhanguera (Em andamento)
 
 ## 🚀 Tecnologias & Ferramentas
 
