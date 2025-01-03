@@ -12,15 +12,21 @@
 
 Sou um Analista de Dados apaixonado por transformar dados em insights valiosos para os negócios. Com mais de 3 anos de experiência em análise de dados, atualmente faço parte do time da Vivo Vita, onde trabalho com projetos de análise e engenharia de dados que impactam diretamente a tomada de decisão estratégica da empresa.
 
-Com formação em Análise e Desenvolvimento de Sistemas pela Universidade UNA (2021), pós graduando em Engenharia de Dados pela Anhanguera e certificação Power BI Express pela Xperian, combino habilidades técnicas sólidas com uma forte compreensão de negócios.
+Com formação em Sistemas de Informação pela Universidade UNA (2021), pós graduando em Engenharia de Dados pela Anhanguera e certificação Power BI Express pela Xperian, combino habilidades técnicas sólidas com uma forte compreensão de negócios.
 
 ## 🎯 Experiência Profissional
 
-### Análise de Dados (2021 - Presente)
-Atuação como analista de dados para diversos setores, desenvolvendo soluções analíticas e dashboards estratégicos para empresas de diferentes segmentos.
+### Vivo Vita (Atual)
+Analista de Dados, atuando com projetos de análise e engenharia de dados que impactam diretamente a tomada de decisão estratégica da empresa.
 
-### Liderança em T.I - Sonda IT
-Experiência como líder de equipe de Service Desk, gerenciando equipes e processos de suporte técnico.
+### VP6 IT
+Analista de Dados, desenvolvimento de soluções analíticas e dashboards estratégicos para empresas de diferentes segmentos.
+
+### Statera TI
+Analista de Dados, focado em desenvolvimento de soluções analíticas e transformação de dados em insights acionáveis para tomada de decisão.
+
+### Sonda IT
+Líder de equipe de Service Desk, gerenciando equipes e processos de suporte técnico, garantindo excelência no atendimento e resolução de problemas.
 
 ## 🏢 Principais Clientes
 
@@ -30,20 +36,20 @@ Experiência como líder de equipe de Service Desk, gerenciando equipes e proces
 [![Purina](https://img.shields.io/badge/-Purina-FF0000?style=for-the-badge&logo=purina&logoColor=white)](https://www.purina.com.br/)
 [![Direcional](https://img.shields.io/badge/-Direcional-003087?style=for-the-badge)](https://www.direcional.com.br/)
 [![Cimentos Liz](https://img.shields.io/badge/-Cimentos%20Liz-00A0DC?style=for-the-badge)](https://www.cimentosliz.com.br/)
-[![BUH](https://img.shields.io/badge/-BUH-000000?style=for-the-badge)](https://www.usebuh.com.br/)
-[![MCD](https://img.shields.io/badge/-MCD-4B0082?style=for-the-badge)](https://www.mcdbrasil.net/)
+[![BUH](https://img.shields.io/badge/-BUH-000000?style=for-the-badge)](https://www.buh.com.br/)
+[![MCD](https://img.shields.io/badge/-MCD-4B0082?style=for-the-badge)](https://www.mcd.com.br/)
 [![Trisul](https://img.shields.io/badge/-Trisul-2E8B57?style=for-the-badge)](https://www.trisul-sa.com.br/)
 [![Carbel](https://img.shields.io/badge/-Carbel-1E90FF?style=for-the-badge)](https://www.carbel.com.br/)
-[![TMF](https://img.shields.io/badge/-TMF%20Fertilizantes-32CD32?style=for-the-badge)](https://tmffertilizantes.com.br/)
-[![BRZ](https://img.shields.io/badge/-BRZ%20Engenharia-0000CD?style=for-the-badge)](https://www.brzempreendimentos.com/)
+[![TMF](https://img.shields.io/badge/-TMF%20Fertilizantes-32CD32?style=for-the-badge)](https://www.tmf.com.br/)
+[![BRZ](https://img.shields.io/badge/-BRZ%20Engenharia-0000CD?style=for-the-badge)](https://www.brz.eng.br/)
 [![Emccamp](https://img.shields.io/badge/-Emccamp-FF4500?style=for-the-badge)](https://www.emccamp.com.br/)
-[![Tenco](https://img.shields.io/badge/-Tenco-4682B4?style=for-the-badge)](https://grupotenco.com.br/)
+[![Tenco](https://img.shields.io/badge/-Tenco-4682B4?style=for-the-badge)](https://www.tenco.com.br/)
 
 </div>
 
 ## 🎓 Certificações
 - Power BI Express - Xperian
-- Análise e Desenvolvimento de Sistemas - UNA (2021)
+- Sistemas de Informação - UNA (2021)
 - Pós-graduação em Engenharia de Dados - Anhanguera (Em andamento)
 
 ## 🚀 Tecnologias & Ferramentas
