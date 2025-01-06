@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+Yuri;Analista+de+Dados+Sênior;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+Yuri;Analista+de+Dados;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yurianalistabi/" target="_blank">
@@ -20,10 +20,10 @@ Com formação em Sistemas de Informação pela Universidade UNA (2021), pós gr
 Analista de Dados, atuando com projetos de análise e engenharia de dados que impactam diretamente a tomada de decisão estratégica da empresa.
 
 ### VP6 IT
-Analista de Dados, desenvolvimento de soluções analíticas e dashboards estratégicos para empresas de diferentes segmentos.
+Trabalhei como Analista de Dados/Analista de Desenvolvimento de Sistemas na VP6 IT entre 2022 e 2025, desenvolvendo os sistemas de planejamento e orçamento de diversas empresas, sempre entregando relatórios e insigths de alto nível e padrão. Trabalhei construindo relatórios em Python e Power BI, além de estar sempre em contato a
 
 ### Statera TI
-Analista de Dados, focado em desenvolvimento de soluções analíticas e transformação de dados em insights acionáveis para tomada de decisão.
+Comecei como estagiário e depois trabalhei como Analista de Processos/Dados entre 2020 e 2022. Foi onde conheci o Power BI e comecei a desenvolver projetos de Análise de Dados avançados para diversos clientes e para uso interno, na melhora de processos. 
 
 ### Sonda IT
 Líder de equipe de Service Desk, gerenciando equipes e processos de suporte técnico, garantindo excelência no atendimento e resolução de problemas.
