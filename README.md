@@ -89,6 +89,7 @@ Líder de equipe de Service Desk, gerenciando equipes e processos de suporte té
   <a href="https://github.com/yurivfernandes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurivfernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurivfernandes&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=yurvfernandes&theme=dracula&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D"/>
   </a>
   
   ![](https://komarev.com/ghpvc/?username=yurivfernandes&color=blueviolet)
