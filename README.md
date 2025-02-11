@@ -17,7 +17,7 @@ Com formação em Sistemas de Informação pela Universidade UNA (2021), pós gr
 ## 🎯 Experiência Profissional
 
 ### Vivo Vita (Atual)
-Analista de Dados, atuando com projetos de análise e engenharia de dados que impactam diretamente a tomada de decisão estratégica da empresa.
+Analista de Dados, atuando com projetos de análise e engenharia de dados que impactam diretamente a tomada de decisão estratégica da empresa. Aqui trabalho com SQL, Python e Power BI.
 
 ### VP6 IT
 Trabalhei como Analista de Dados/Analista de Desenvolvimento de Sistemas na VP6 IT entre 2022 e 2025, desenvolvendo os sistemas de planejamento e orçamento de diversas empresas, sempre entregando relatórios e insigths de alto nível e padrão. Trabalhei construindo relatórios em Python e Power BI, além de estar sempre em contato a
